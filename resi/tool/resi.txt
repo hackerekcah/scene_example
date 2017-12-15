@@ -1,0 +1,12 @@
+audio/b003_190_200.wav  residential_area        b003
+audio/b006_150_160.wav  residential_area        b006
+audio/b007_110_120.wav  residential_area        b007
+audio/b004_80_90.wav    residential_area        b004
+audio/b005_10_20.wav    residential_area        b005
+audio/a010_110_120.wav  residential_area        a010
+audio/b008_170_180.wav  residential_area        b008
+audio/b009_190_200.wav  residential_area        b009
+audio/a003_0_10.wav     residential_area        a003
+audio/a009_80_90.wav    residential_area        a009
+audio/a012_120_130.wav  residential_area        a012
+audio/a001_160_170.wav  residential_area        a001

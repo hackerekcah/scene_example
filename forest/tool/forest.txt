@@ -1,0 +1,12 @@
+audio/a043_60_70.wav    forest_path     a043
+audio/a039_0_10.wav     forest_path     a039
+audio/a069_0_10.wav     forest_path     a069
+audio/a068_0_10.wav     forest_path     a068
+audio/a097_120_130.wav  forest_path     a097
+audio/a057_170_180.wav  forest_path     a057
+audio/a058_90_100.wav   forest_path     a058
+audio/a059_40_50.wav    forest_path     a059
+audio/a040_20_30.wav    forest_path     a040
+audio/a098_50_60.wav    forest_path     a098
+audio/a055_0_10.wav     forest_path     a055
+audio/a067_30_40.wav    forest_path     a067

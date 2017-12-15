@@ -1,0 +1,12 @@
+audio/b016_120_130.wav  park    b016
+audio/a018_60_70.wav    park    a018
+audio/b015_80_90.wav    park    b015
+audio/b014_110_120.wav  park    b014
+audio/a017_140_150.wav  park    a017
+audio/a027_110_120.wav  park    a027
+audio/a021_150_160.wav  park    a021
+audio/a019_130_140.wav  park    a019
+audio/a004_60_70.wav    park    a004
+audio/a028_170_180.wav  park    a028
+audio/b013_70_80.wav    park    b013
+audio/b024_110_120.wav  park    b024

@@ -1,0 +1,1 @@
+cqt: CQT2 CQTBinsPerOctave=24  CQTMaxFreq=22050 CQTMinFreq=5 stepSize=1323

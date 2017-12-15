@@ -1,0 +1,12 @@
+audio/b109_150_160.wav  bus     b109
+audio/a112_100_110.wav  bus     a112
+audio/b110_80_90.wav    bus     b110
+audio/b111_173_183.wav  bus     b111
+audio/b112_0_10.wav     bus     b112
+audio/b107_0_10.wav     bus     b107
+audio/a104_130_140.wav  bus     a104
+audio/a140_120_130.wav  bus     a140
+audio/a045_160_170.wav  bus     a045
+audio/a071_120_130.wav  bus     a071
+audio/a103_100_110.wav  bus     a103
+audio/a093_59_69.wav    bus     a093

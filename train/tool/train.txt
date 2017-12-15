@@ -1,0 +1,12 @@
+audio/a092_130_140.wav  train   a092
+audio/b060_90_100.wav   train   b060
+audio/b061_40_50.wav    train   b061
+audio/b062_60_70.wav    train   b062
+audio/b064_30_40.wav    train   b064
+audio/b065_164_174.wav  train   b065
+audio/b067_170_180.wav  train   b067
+audio/a144_90_100.wav   train   a144
+audio/a145_40_50.wav    train   a145
+audio/b059_205_215.wav  train   b059
+audio/a074_190_200.wav  train   a074
+audio/a075_80_90.wav    train   a075

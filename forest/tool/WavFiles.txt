@@ -1,0 +1,12 @@
+audio/a043_60_70.wav
+audio/a039_0_10.wav
+audio/a069_0_10.wav
+audio/a068_0_10.wav
+audio/a097_120_130.wav
+audio/a057_170_180.wav
+audio/a058_90_100.wav
+audio/a059_40_50.wav
+audio/a040_20_30.wav
+audio/a098_50_60.wav
+audio/a055_0_10.wav
+audio/a067_30_40.wav

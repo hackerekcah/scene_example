@@ -1,0 +1,12 @@
+audio/b079_100_110.wav  tram    b079
+audio/b078_140_150.wav  tram    b078
+audio/b082_150_160.wav  tram    b082
+audio/a079_30_40.wav    tram    a079
+audio/a076_50_60.wav    tram    a076
+audio/a154_0_10.wav     tram    a154
+audio/a151_100_110.wav  tram    a151
+audio/b080_100_110.wav  tram    b080
+audio/b077_70_80.wav    tram    b077
+audio/b083_0_10.wav     tram    b083
+audio/b076_107_117.wav  tram    b076
+audio/b081_10_20.wav    tram    b081
